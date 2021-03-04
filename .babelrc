@@ -15,7 +15,7 @@
         },
         "modules": false
       }
-    ]
-  ],
-  "plugins": ["@emotion/babel-plugin"]
+    ],
+    "@emotion/babel-preset-css-prop"
+  ]
 }

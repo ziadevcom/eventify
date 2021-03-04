@@ -12,7 +12,7 @@
   "devDependencies": {
     "@babel/preset-env": "^7.13.8",
     "@babel/preset-react": "^7.12.13",
-    "@emotion/babel-plugin": "^11.2.0",
+    "@emotion/babel-preset-css-prop": "^11.2.0",
     "@snowpack/plugin-babel": "^2.1.6",
     "@snowpack/plugin-react-refresh": "^2.4.0",
     "@snowpack/plugin-webpack": "^2.3.0",
@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "@emotion/react": "^11.1.5",
+    "@material-ui/core": "^4.11.3",
+    "nanoid": "^3.1.20",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
